@@ -129,7 +129,7 @@ As a **fresher**, I am looking for an opportunity where I can apply my technical
 ---
 
 ## Flutter UI Intern
-### svgDigisailor
+### Digisailor
 **June 2024 – July 2024**
 
 - Developed responsive and intuitive mobile user interfaces using Flutter.
